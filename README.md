@@ -1,4 +1,4 @@
-# 🌐 TalentSphere Elevate
+# 🌐 Talent Management Platform
 
 **AI-Powered Career Guidance Platform** — built with **Python, Streamlit, SQLite, Pandas, NumPy, Plotly, Scikit-learn, and ReportLab**.
 
@@ -939,7 +939,7 @@ See the [`LICENSE`](LICENSE) file for the complete license text.
 
 # 👨‍💻 Team
 
-## TalentSphere Elevate — Team C
+## Talent Management Platform — Team C
 
 Built with ❤️ for learners, students, job seekers, and working professionals.
 
@@ -947,8 +947,8 @@ Built with ❤️ for learners, students, job seekers, and working professionals
 
 # ⭐ Support the Project
 
-If you find **TalentSphere Elevate** useful, consider giving the repository a ⭐ on GitHub.
+If you find **Talent Management Platform** useful, consider giving the repository a ⭐ on GitHub.
 
 ---
 
-**TalentSphere Elevate — Empowering career decisions with AI, data, and personalized guidance.**
+**Talent Management Platform — Empowering career decisions with AI, data, and personalized guidance.**
